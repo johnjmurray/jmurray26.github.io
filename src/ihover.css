@@ -3226,6 +3226,7 @@
 }
 .ih-item.square.effect8 .img {
   opacity: 1;
+  margin: auto;
   -webkit-transition: all 0.35s ease-in-out;
   -moz-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
@@ -3270,6 +3271,7 @@
 }
 
 .ih-item.square.effect8.scale_up .img {
+  margin: auto;
   -webkit-transform: scale(1);
   -moz-transform: scale(1);
   -ms-transform: scale(1);
